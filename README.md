@@ -9,7 +9,7 @@ In this Python code, I'm showing how to use the YouTube Data Generator script wo
 **Channel Data**: Access information about YouTube channels, such as channel name, description, subscriber count, and video uploads.
 **Playlist Data**: Fetch data related to YouTube playlists, including playlist title, description, video count, and videos within the playlist.
 
-#### How to generate YouTube API key
+### How to generate the YouTube API key
 
 _Step 1: Create a Project on Google Cloud Platform_
 Go to the Google Cloud Console:
@@ -34,5 +34,7 @@ You can now use the generated API key to make requests to the YouTube Data API v
 Please ensure to keep your API key confidential. Do not share it publicly or include it directly in client-side code. Instead, if you're building a web application, use a server-side component to make API requests with your API key to protect it.
 
 
-#### Build Python script to generate desired YouTube data 
+### Build a Python script to generate desired YouTube data 
+
+Step 1: Generate API 
 
