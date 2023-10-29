@@ -36,5 +36,37 @@ Please ensure to keep your API key confidential. Do not share it publicly or inc
 
 ### Build a Python script to generate desired YouTube data 
 
-Step 1: Generate API 
+_Step 1: Generate API  then choose your desired YouTube channels for extracting data._
+I'm using my favorite top 10 data analytics/data science channels to gather general data instantly using Python script. 
+<img width="697" alt="image" src="https://github.com/amatshkalyan/YouTube-API-project-Python/assets/149266119/030c4dd5-2378-4ed1-886f-42ef3f83a1e4">
+
+
+_Step 2: Building Function to get channel statistics._
+Then I'm building my preferred data frame using main columns from channel statistics and then building main views to analyse these channels.
+
+##### Top Channels by Subscribers
+<img width="985" alt="image" src="https://github.com/amatshkalyan/YouTube-API-project-Python/assets/149266119/438bb635-5bfe-4bfd-bff5-4c5b50b7d365">
+
+##### Channels by Distribution of Views
+<img width="741" alt="image" src="https://github.com/amatshkalyan/YouTube-API-project-Python/assets/149266119/353fe1d4-5f8d-4e18-ad85-8d51983cec7f">
+
+##### Total uploaded videos by channel 
+<img width="1001" alt="image" src="https://github.com/amatshkalyan/YouTube-API-project-Python/assets/149266119/9b293d50-f3ea-48ba-b5b7-6ff6fae37a6d">
+
+
+_Step 3: Building Function to detailed video data for your chosen Channel._
+I'm using Python script to generate the whole data for my favorite data analytics channel on YouTube and building views showing main insights for that channel
+
+##### Top 10 videos for the channel of "Alex The Analyst"
+<img width="984" alt="image" src="https://github.com/amatshkalyan/YouTube-API-project-Python/assets/149266119/7539e8b0-eb59-4d10-9c8c-5e164b6fefe7">
+
+##### Number of uploaded videos over time by Month
+<img width="700" alt="image" src="https://github.com/amatshkalyan/YouTube-API-project-Python/assets/149266119/0b154d63-8b89-4231-a087-01601085bb39">
+
+
+Then continuing using this logic you can generate more playlist-related data, build other custom views, and analyze them using this Python script which will allow you to learn data analytics/data science staff from my preferred channels and build new skills in this area.
+
+For more detailed information how I get this data find my Python script attached. 
+
+
 
